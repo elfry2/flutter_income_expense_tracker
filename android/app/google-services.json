@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716400867568",
+    "project_id": "flutter-inex-tracker",
+    "storage_bucket": "flutter-inex-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716400867568:android:a57a7164d1a9f248266a35",
+        "android_client_info": {
+          "package_name": "com.example.flutter_income_expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbvSODcsblXGG26EAdeoXZNt9_iTsMwuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
