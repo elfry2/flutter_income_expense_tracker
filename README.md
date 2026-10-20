@@ -2,7 +2,7 @@
 
 A simple, modular income and expense tracker app built with **Flutter** and **Firebase Firestore** for educational purposes.
 
-Lazily generated with Gemini [https://share.gemini.google/22DZ8SIJ6Lyv](https://share.gemini.google/22DZ8SIJ6Lyv).
+Lazily generated with Gemini ([https://share.gemini.google/22DZ8SIJ6Lyv](https://share.gemini.google/22DZ8SIJ6Lyv)).
 
 This repository demonstrates a clean implementation of full **CRUD** (Create, Read, Update, Delete) operations using Firestore, structured so that each operation has its own dedicated screen in Flutter.
 
